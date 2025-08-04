@@ -1,5 +1,4 @@
 # 💫 CCSFEN1L
-Software Engineering 1
 
 <!-- Background github cover with short introduction down below 
 <img src="https://github.com/flexycode/CTINFMGL/blob/main/asset/Information-Management.png" />
@@ -13,7 +12,7 @@ Software Engineering 1
 ### Prerequisite: [None](https://www.youtube.com/watch?v=v3BBE7wtuIM&list=RDv3BBE7wtuIM&start_radio=1)
 ### Project Link: [Coming Soon](https://www.youtube.com/watch?v=R3rYh4iWcRk&list=RDfFqxDrmQLnQ&index=3)
 
-<!-- 🤖 Machine Learning 🤖 -->
+<!-- 🤖 Software Engineering 🤖 -->
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3lpMjVqNnE3dWh4Mzk0cnF4N2RhcWJudmxvc3RqMW0waHFiN3R5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="250">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3pjaDIydDdpZXBnZWRxMWVuOWMyeDV1dHU0c3N5N243eDcyaWVkZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rYchHXYdIDp3Qpt3IK/giphy.gif" width="300">
@@ -22,20 +21,22 @@ Software Engineering 1
 
 # 📜 Course Description
 
-This course introduces students with a broad variety of fundamental statistical-based algorithms used to train models for basic predictive tasks. This course also covers the theoretical and mathematical concepts of each method complemented by hands-on activities.
+This course provides a general introduction to software engineering. It covers concepts like software processes, agile methodologies, and essential software development activities, from initial specification to system maintenance. The course also introduces formalisms and tools such as common design patterns and UML notation, and examines the entire software life-cycle, including specification, design, implementation, testing, and maintenance.
+
+
 
 <!-- Always document your changes, pull-request, bugfix, updates, patch notes for this final project. Always use this "🧊 Flight Booking" for commiting message for "pushing code" or "Pull-request"   -->
 # 📫 Changelogs 
 Chronological list of updates, bug fixes, new features, and other modifications for PharmaXLedger Pharmaceutical Supply Chain Management.
 
-### 📦 Version 1.0.0 - July 23, 2025
+### 📦 Version 1.0.0 - Aug 04, 2025
 **Project Initialization**
 - ✨ Created initial repository structure
 - ✨ Set up project folder 
-- ✨ Established ML development workflow & README.md
+- ✨ Established Sofware development workflow & README.md
 - 🔧 Initial project configuration and setup
 
-🧊 CCMACLRL EXERCISES
+🧊 CCSFEN1L
 
 <!-- Introduction Pannel button link, it will redirect to the top -->
 
