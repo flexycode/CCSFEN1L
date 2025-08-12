@@ -7,16 +7,16 @@
 ### Name: [Jay Arre Talosig](https://www.youtube.com/watch?v=-er2ruCgzjg&list=RDfFqxDrmQLnQ&index=4)  
 ### Subject & Section: [CCSFEN1L - COM232](https://www.youtube.com/watch?v=fFqxDrmQLnQ&list=RDfFqxDrmQLnQ&start_radio=1)
 ### Schedule: [MON 3:00PM - 05:40 PM 517 MB - THU 03:00PM - 07:00 PM 408 MB](https://www.youtube.com/watch?v=dL7Vn7hJDAk&list=RDdL7Vn7hJDAk&start_radio=1)
-### Professor: [Eliseo Ramirez](https://github.com/robitussin/)     
+### Professor: [Eliseo Q. Ramirez](https://github.com/)     
 ### No. of Units: [3 Units](https://www.youtube.com/watch?v=UVJSA2N39NU&list=RDUVJSA2N39NU&start_radio=1)
-### Prerequisite: [None](https://www.youtube.com/watch?v=v3BBE7wtuIM&list=RDv3BBE7wtuIM&start_radio=1)
+### Prerequisite: [CCDATRCL - DATA STRUCTURES AND ALGORITHMS](https://github.com/flexycode/CCDATRCL)
 ### Project Link: [Coming Soon](https://www.youtube.com/watch?v=R3rYh4iWcRk&list=RDfFqxDrmQLnQ&index=3)
 
 <!-- 🤖 Software Engineering 🤖 -->
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3lpMjVqNnE3dWh4Mzk0cnF4N2RhcWJudmxvc3RqMW0waHFiN3R5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="250">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b3pjaDIydDdpZXBnZWRxMWVuOWMyeDV1dHU0c3N5N243eDcyaWVkZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rYchHXYdIDp3Qpt3IK/giphy.gif" width="300">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3lpMjVqNnE3dWh4Mzk0cnF4N2RhcWJudmxvc3RqMW0waHFiN3R5MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jY1r8EHyk4Ye9KUOUb/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTRmeHg0b2kwaW1qeGtvaDFjenpxdXB4YThyZzhjampncWRncnZsbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y06e2KFCG48qwNMGK2/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3end4eTE0ejQxNG0wbml6anVmcW02NG4zeG1kMTVkcThwdmg1YTViZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nVId9DzWXVjMQc6SMn/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHhhY3k5bjZ2cjh6eHI5c253YTk1M29wcGI4MWkzYng4OGhyN3huaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yWYjFi5Uh6ehJrJ4Rc/giphy.gif" width="250">
 </div>
 
 # 📜 Course Description
