@@ -51,7 +51,7 @@ Chronological list of updates, bug fixes, new features, and other modifications 
 
 <!-- Siero Miero -->
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGJ0aW80YnkwcjdmNzdzZ2tuMDdpaTZydzV5dTQ3M2VtdXlrd2k0ayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iF7FoIWjpHD7E2ndx4/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxsYm56NWNjMWJzZmtoc2Fkb25ucnBvNXU4emd5cGphY3V0bGNwaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nD0DiLJXj9c5Tg7QFk/giphy.gif" width="300">
 </div>
 
 <!-- End point line insert Comeback again next time, feel free to modify this  -->
